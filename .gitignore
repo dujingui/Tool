@@ -1,0 +1,11 @@
+/Tool/Release/*.iobj
+/Tool/.vs/Tool/v15/ipch/AutoPCH/c6d315e4ffa3c8ee/*.ipch
+/Tool/Release/*.ipdb
+/Tool/Tool/Debug/*.obj
+/Tool/.vs/Tool/v15/ipch/*.ipch
+/Tool/Tool/Debug/Tool.tlog/*.tlog
+/Tool/Tool/Release/Tool.tlog/*.tlog
+/Tool/Tool/Release/*.obj
+/Tool/Tool/unpacket/atlas_artfonts
+/Tool/Tool/origin
+/Tool/Tool/unpacket

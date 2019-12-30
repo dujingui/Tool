@@ -1,0 +1,4 @@
+﻿  Building Custom Rule E:/Code/Tool/zlib-1.2.11/zlib-1.2.11/CMakeLists.txt
+  CMake does not need to re-run because E:/Code/Tool/zlib-1.2.11/zlib-1.2.11/bin/CMakeFiles/generate.stamp is up-to-date.
+  minigzip.c
+  minigzip.vcxproj -> E:\Code\Tool\zlib-1.2.11\zlib-1.2.11\bin\Debug\minigzip.exe

@@ -1,0 +1,19 @@
+﻿  Building Custom Rule E:/Code/Tool/zlib-1.2.11/zlib-1.2.11/CMakeLists.txt
+  CMake does not need to re-run because E:/Code/Tool/zlib-1.2.11/zlib-1.2.11/bin/CMakeFiles/generate.stamp is up-to-date.
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzclose.c
+  gzlib.c
+  gzread.c
+  gzwrite.c
+  inflate.c
+  infback.c
+  inftrees.c
+  inffast.c
+  trees.c
+  uncompr.c
+  zutil.c
+  正在生成代码...
+  zlibstatic.vcxproj -> E:\Code\Tool\zlib-1.2.11\zlib-1.2.11\bin\Debug\zlibstaticd.lib

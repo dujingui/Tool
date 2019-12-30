@@ -1,0 +1,88 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libpng", "libpng.vcxproj", "{0008960E-E0DD-41A6-8265-00B31DDB4C21}"
+	ProjectSection(ProjectDependencies) = postProject
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8} = {07997403-A3C5-318B-95D9-F2EDEFF503F8}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pngtest", "pngtest.vcxproj", "{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zlib", "..\..\..\..\zlib-1.2.11\zlib-1.2.11\bin\zlib.vcxproj", "{07997403-A3C5-318B-95D9-F2EDEFF503F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		DLL Debug|x86 = DLL Debug|x86
+		DLL Release|x86 = DLL Release|x86
+		DLL VB|x86 = DLL VB|x86
+		LIB Debug|x86 = LIB Debug|x86
+		LIB Release|x86 = LIB Release|x86
+		MinSizeRel|x86 = MinSizeRel|x86
+		Release|x86 = Release|x86
+		RelWithDebInfo|x86 = RelWithDebInfo|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0008960E-E0DD-41A6-8265-00B31DDB4C21}.Debug|x86.ActiveCfg = LIB Debug|Win32
+		{0008960E-E0DD-41A6-8265-00B31DDB4C21}.Debug|x86.Build.0 = LIB Debug|Win32
+		{0008960E-E0DD-41A6-8265-00B31DDB4C21}.DLL Debug|x86.ActiveCfg = DLL Debug|Win32
+		{0008960E-E0DD-41A6-8265-00B31DDB4C21}.DLL Debug|x86.Build.0 = DLL Debug|Win32
+		{0008960E-E0DD-41A6-8265-00B31DDB4C21}.DLL Release|x86.ActiveCfg = DLL Release|Win32
+		{0008960E-E0DD-41A6-8265-00B31DDB4C21}.DLL Release|x86.Build.0 = DLL Release|Win32
+		{0008960E-E0DD-41A6-8265-00B31DDB4C21}.DLL VB|x86.ActiveCfg = DLL VB|Win32
+		{0008960E-E0DD-41A6-8265-00B31DDB4C21}.DLL VB|x86.Build.0 = DLL VB|Win32
+		{0008960E-E0DD-41A6-8265-00B31DDB4C21}.LIB Debug|x86.ActiveCfg = LIB Debug|Win32
+		{0008960E-E0DD-41A6-8265-00B31DDB4C21}.LIB Debug|x86.Build.0 = LIB Debug|Win32
+		{0008960E-E0DD-41A6-8265-00B31DDB4C21}.LIB Release|x86.ActiveCfg = LIB Release|Win32
+		{0008960E-E0DD-41A6-8265-00B31DDB4C21}.LIB Release|x86.Build.0 = LIB Release|Win32
+		{0008960E-E0DD-41A6-8265-00B31DDB4C21}.MinSizeRel|x86.ActiveCfg = LIB Release|Win32
+		{0008960E-E0DD-41A6-8265-00B31DDB4C21}.MinSizeRel|x86.Build.0 = LIB Release|Win32
+		{0008960E-E0DD-41A6-8265-00B31DDB4C21}.Release|x86.ActiveCfg = LIB Release|Win32
+		{0008960E-E0DD-41A6-8265-00B31DDB4C21}.Release|x86.Build.0 = LIB Release|Win32
+		{0008960E-E0DD-41A6-8265-00B31DDB4C21}.RelWithDebInfo|x86.ActiveCfg = LIB Release|Win32
+		{0008960E-E0DD-41A6-8265-00B31DDB4C21}.RelWithDebInfo|x86.Build.0 = LIB Release|Win32
+		{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}.Debug|x86.ActiveCfg = LIB Debug|Win32
+		{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}.Debug|x86.Build.0 = LIB Debug|Win32
+		{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}.DLL Debug|x86.ActiveCfg = DLL Debug|Win32
+		{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}.DLL Debug|x86.Build.0 = DLL Debug|Win32
+		{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}.DLL Release|x86.ActiveCfg = DLL Release|Win32
+		{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}.DLL Release|x86.Build.0 = DLL Release|Win32
+		{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}.DLL VB|x86.ActiveCfg = DLL VB|Win32
+		{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}.DLL VB|x86.Build.0 = DLL VB|Win32
+		{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}.LIB Debug|x86.ActiveCfg = LIB Debug|Win32
+		{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}.LIB Debug|x86.Build.0 = LIB Debug|Win32
+		{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}.LIB Release|x86.ActiveCfg = LIB Release|Win32
+		{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}.LIB Release|x86.Build.0 = LIB Release|Win32
+		{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}.MinSizeRel|x86.ActiveCfg = LIB Release|Win32
+		{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}.MinSizeRel|x86.Build.0 = LIB Release|Win32
+		{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}.Release|x86.ActiveCfg = LIB Release|Win32
+		{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}.Release|x86.Build.0 = LIB Release|Win32
+		{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}.RelWithDebInfo|x86.ActiveCfg = LIB Release|Win32
+		{FD1C2F86-9EEF-47BD-95A4-530917E17FDA}.RelWithDebInfo|x86.Build.0 = LIB Release|Win32
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8}.Debug|x86.ActiveCfg = Debug|Win32
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8}.Debug|x86.Build.0 = Debug|Win32
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8}.DLL Debug|x86.ActiveCfg = Debug|Win32
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8}.DLL Debug|x86.Build.0 = Debug|Win32
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8}.DLL Release|x86.ActiveCfg = Release|Win32
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8}.DLL Release|x86.Build.0 = Release|Win32
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8}.DLL VB|x86.ActiveCfg = Debug|Win32
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8}.DLL VB|x86.Build.0 = Debug|Win32
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8}.LIB Debug|x86.ActiveCfg = Debug|Win32
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8}.LIB Debug|x86.Build.0 = Debug|Win32
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8}.LIB Release|x86.ActiveCfg = Release|Win32
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8}.LIB Release|x86.Build.0 = Release|Win32
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8}.MinSizeRel|x86.ActiveCfg = MinSizeRel|Win32
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8}.MinSizeRel|x86.Build.0 = MinSizeRel|Win32
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8}.Release|x86.ActiveCfg = Release|Win32
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8}.Release|x86.Build.0 = Release|Win32
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8}.RelWithDebInfo|x86.ActiveCfg = RelWithDebInfo|Win32
+		{07997403-A3C5-318B-95D9-F2EDEFF503F8}.RelWithDebInfo|x86.Build.0 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {182D18D5-C821-4D8E-B776-8FA3F7C3D1FE}
+	EndGlobalSection
+EndGlobal

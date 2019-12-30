@@ -1,0 +1,146 @@
+The system is: Windows - 6.1.7601 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+ÓÃÓÚ .NET Framework µÄ Microsoft (R) Éú³ÉÒýÇæ°æ±¾ 15.9.21+g9802d43bc3
+°æÈ¨ËùÓÐ(C) Microsoft Corporation¡£±£ÁôËùÓÐÈ¨Àû¡£
+
+Éú³ÉÆô¶¯Ê±¼äÎª 2019/12/27 12:40:44¡£
+½Úµã 1 ÉÏµÄÏîÄ¿¡°E:\Code\Tool\zlib-1.2.11\zlib-1.2.11\bin\CMakeFiles\3.14.0-rc4\CompilerIdC\CompilerIdC.vcxproj¡±(Ä¬ÈÏÄ¿±ê)¡£
+PrepareForBuild:
+  ÕýÔÚ´´½¨Ä¿Â¼¡°Debug\¡±¡£
+  ÕýÔÚ´´½¨Ä¿Â¼¡°Debug\CompilerIdC.tlog\¡±¡£
+InitializeBuildStatus:
+  ÕýÔÚ´´½¨¡°Debug\CompilerIdC.tlog\unsuccessfulbuild¡±£¬ÒòÎªÒÑÖ¸¶¨¡°AlwaysCreate¡±¡£
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> E:\Code\Tool\zlib-1.2.11\zlib-1.2.11\bin\CMakeFiles\3.14.0-rc4\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  ÕýÔÚÉ¾³ýÎÄ¼þ¡°Debug\CompilerIdC.tlog\unsuccessfulbuild¡±¡£
+  ÕýÔÚ¶Ô¡°Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate¡±Ö´ÐÐ Touch ÈÎÎñ¡£
+ÒÑÍê³ÉÉú³ÉÏîÄ¿¡°E:\Code\Tool\zlib-1.2.11\zlib-1.2.11\bin\CMakeFiles\3.14.0-rc4\CompilerIdC\CompilerIdC.vcxproj¡±(Ä¬ÈÏÄ¿±ê)µÄ²Ù×÷¡£
+
+ÒÑ³É¹¦Éú³É¡£
+    0 ¸ö¾¯¸æ
+    0 ¸ö´íÎó
+
+ÒÑÓÃÊ±¼ä 00:00:01.25
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "E:/Code/Tool/zlib-1.2.11/zlib-1.2.11/bin/CMakeFiles/3.14.0-rc4/CompilerIdC/CompilerIdC.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: E:/Code/Tool/zlib-1.2.11/zlib-1.2.11/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_abcce.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+ç”¨äºŽ .NET Framework çš„ Microsoft (R) ç”Ÿæˆå¼•æ“Žç‰ˆæœ¬ 15.9.21+g9802d43bc3
+ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
+
+  ç”¨äºŽ x86 çš„ Microsoft (R) C/C++ ä¼˜åŒ–ç¼–è¯‘å™¨ 19.16.27031.1 ç‰ˆ
+  ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_abcce.dir\Debug\\" /Fd"cmTC_abcce.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "E:\Code\Tool\zlib-1.2.11\zlib-1.2.11\bin\CMakeFiles\CMakeTmp\testCCompiler.c"
+  testCCompiler.c
+  
+  cmTC_abcce.vcxproj -> E:\Code\Tool\zlib-1.2.11\zlib-1.2.11\bin\CMakeFiles\CMakeTmp\Debug\cmTC_abcce.exe
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/Code/Tool/zlib-1.2.11/zlib-1.2.11/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_4e610.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+ç”¨äºŽ .NET Framework çš„ Microsoft (R) ç”Ÿæˆå¼•æ“Žç‰ˆæœ¬ 15.9.21+g9802d43bc3
+ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
+
+  ç”¨äºŽ x86 çš„ Microsoft (R) C/C++ ä¼˜åŒ–ç¼–è¯‘å™¨ 19.16.27031.1 ç‰ˆ
+  ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4e610.dir\Debug\\" /Fd"cmTC_4e610.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.14\Modules\CMakeCCompilerABI.c"
+  CMakeCCompilerABI.c
+  
+  cmTC_4e610.vcxproj -> E:\Code\Tool\zlib-1.2.11\zlib-1.2.11\bin\CMakeFiles\CMakeTmp\Debug\cmTC_4e610.exe
+
+
+
+
+Detecting C [] compiler features compiled with the following output:
+Change Dir: E:/Code/Tool/zlib-1.2.11/zlib-1.2.11/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_d91de.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+ç”¨äºŽ .NET Framework çš„ Microsoft (R) ç”Ÿæˆå¼•æ“Žç‰ˆæœ¬ 15.9.21+g9802d43bc3
+ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
+
+  ç”¨äºŽ x86 çš„ Microsoft (R) C/C++ ä¼˜åŒ–ç¼–è¯‘å™¨ 19.16.27031.1 ç‰ˆ
+  ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d91de.dir\Debug\\" /Fd"cmTC_d91de.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "E:\Code\Tool\zlib-1.2.11\zlib-1.2.11\bin\CMakeFiles\feature_tests.c"
+  feature_tests.c
+  
+  cmTC_d91de.vcxproj -> E:\Code\Tool\zlib-1.2.11\zlib-1.2.11\bin\CMakeFiles\CMakeTmp\Debug\cmTC_d91de.exe
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_variadic_macros
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: E:/Code/Tool/zlib-1.2.11/zlib-1.2.11/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_5721b.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+ç”¨äºŽ .NET Framework çš„ Microsoft (R) ç”Ÿæˆå¼•æ“Žç‰ˆæœ¬ 15.9.21+g9802d43bc3
+ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
+
+  ç”¨äºŽ x86 çš„ Microsoft (R) C/C++ ä¼˜åŒ–ç¼–è¯‘å™¨ 19.16.27031.1 ç‰ˆ
+  ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5721b.dir\Debug\\" /Fd"cmTC_5721b.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "E:\Code\Tool\zlib-1.2.11\zlib-1.2.11\bin\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+  
+  cmTC_5721b.vcxproj -> E:\Code\Tool\zlib-1.2.11\zlib-1.2.11\bin\CMakeFiles\CMakeTmp\Debug\cmTC_5721b.exe
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: E:/Code/Tool/zlib-1.2.11/zlib-1.2.11/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_63b02.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+ç”¨äºŽ .NET Framework çš„ Microsoft (R) ç”Ÿæˆå¼•æ“Žç‰ˆæœ¬ 15.9.21+g9802d43bc3
+ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
+
+  ç”¨äºŽ x86 çš„ Microsoft (R) C/C++ ä¼˜åŒ–ç¼–è¯‘å™¨ 19.16.27031.1 ç‰ˆ
+  ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_63b02.dir\Debug\\" /Fd"cmTC_63b02.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "E:\Code\Tool\zlib-1.2.11\zlib-1.2.11\bin\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+  
+  cmTC_63b02.vcxproj -> E:\Code\Tool\zlib-1.2.11\zlib-1.2.11\bin\CMakeFiles\CMakeTmp\Debug\cmTC_63b02.exe
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: E:/Code/Tool/zlib-1.2.11/zlib-1.2.11/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_95c90.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+ç”¨äºŽ .NET Framework çš„ Microsoft (R) ç”Ÿæˆå¼•æ“Žç‰ˆæœ¬ 15.9.21+g9802d43bc3
+ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
+
+  ç”¨äºŽ x86 çš„ Microsoft (R) C/C++ ä¼˜åŒ–ç¼–è¯‘å™¨ 19.16.27031.1 ç‰ˆ
+  ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_95c90.dir\Debug\\" /Fd"cmTC_95c90.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "E:\Code\Tool\zlib-1.2.11\zlib-1.2.11\bin\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+  
+  cmTC_95c90.vcxproj -> E:\Code\Tool\zlib-1.2.11\zlib-1.2.11\bin\CMakeFiles\CMakeTmp\Debug\cmTC_95c90.exe
+
+

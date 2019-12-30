@@ -1,0 +1,5 @@
+﻿  pngtest.vcxproj -> E:\Code\Tool\lpng1637\lpng1637\projects\visualc71\.\Win32_DLL_Debug\Test\pngtest.exe
+  Testing...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(255,5): error MSB3073: 命令“set path=.\Win32_DLL_Debug\Test\..;.\Win32_DLL_Debug\Test\..\ZLib
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(255,5): error MSB3073: E:\Code\Tool\lpng1637\lpng1637\projects\visualc71\.\Win32_DLL_Debug\Test\pngtest.exe ..\..\pngtest.png .\Win32_DLL_Debug\Test\pngout.png
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(255,5): error MSB3073: :VCEnd”已退出，代码为 -1073741515。

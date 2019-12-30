@@ -1,0 +1,6 @@
+﻿  CImage.cpp
+e:\code\tool\tool\tool\cimage.cpp(132): warning C4101: “ret”: 未引用的局部变量
+  main.cpp
+e:\code\tool\tool\tool\unpacker.h(88): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  Tool.vcxproj -> E:\Code\Tool\Tool\Debug\Tool.exe
