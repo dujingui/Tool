@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tool", "Tool\Tool.vcxproj", "{29F9F321-80D8-4900-A25F-E134E38EF63B}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Unpacket", "Unpacket\Unpacket.vdproj", "{A894D9CE-292D-40E6-9AEC-A1B4577075B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,10 @@ Global
 		{29F9F321-80D8-4900-A25F-E134E38EF63B}.Release|x64.Build.0 = Release|x64
 		{29F9F321-80D8-4900-A25F-E134E38EF63B}.Release|x86.ActiveCfg = Release|Win32
 		{29F9F321-80D8-4900-A25F-E134E38EF63B}.Release|x86.Build.0 = Release|Win32
+		{A894D9CE-292D-40E6-9AEC-A1B4577075B9}.Debug|x64.ActiveCfg = Debug
+		{A894D9CE-292D-40E6-9AEC-A1B4577075B9}.Debug|x86.ActiveCfg = Debug
+		{A894D9CE-292D-40E6-9AEC-A1B4577075B9}.Release|x64.ActiveCfg = Release
+		{A894D9CE-292D-40E6-9AEC-A1B4577075B9}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

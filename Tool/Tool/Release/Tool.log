@@ -1,6 +1,13 @@
-﻿  正在生成代码
-  0 of 285 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+﻿  pch.cpp
+  CImage.cpp
+e:\git\tool\tool\tool\cimage.cpp(132): warning C4101: “ret”: 未引用的局部变量
+  FileUtil.cpp
+  main.cpp
+e:\git\tool\tool\tool\unpacker.h(88): warning C4018: “<”: 有符号/无符号不匹配
+  Tool.cpp
+  正在生成代码
+  279 of 285 functions (97.9%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
-  Tool.vcxproj -> E:\Code\Tool\Tool\Release\Tool.exe
+  Tool.vcxproj -> E:\Git\Tool\Tool\Release\Tool.exe
